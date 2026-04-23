@@ -1,7 +1,10 @@
 rencana
 
 re1
+* remake
 re2
+* remake
 re3
+* remake
 re4
 re5
