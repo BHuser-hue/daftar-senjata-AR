@@ -2,6 +2,7 @@ rencana
 
 re1
 * remake
+  ^true
 re2
 * remake
 re3
@@ -9,3 +10,4 @@ re3
 re4
 re5
 re6
+ ^true
