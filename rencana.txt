@@ -1,13 +1,14 @@
 rencana
 
-re1
+- re1
   * remake
-    ^one
-    ^one/one
-re2
+    ^true
+- re2
   * remake
-re3
+- re3
   * remake
-re4
-re5
-re6
+- re4
+- re5
+- re6
+  ^true
+
